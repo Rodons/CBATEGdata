@@ -1,4 +1,4 @@
-﻿Transcript_Cluster_ID,Gene_Symbol,iB_UP,iB_DW,iW_UP,iW_DW,eW_UP,eW_DW,iBAT_FC,iWAT_FC,eWAT_FC
+﻿Transcript_Cluster_ID,Gene_Symbol,iBAT_UP,iBAT_DW,iWAT_UP,iWAT_DW,eWAT_UP,eWAT_DW,iBAT_FC,iWAT_FC,eWAT_FC
 17243761,Fabp3-ps1,1,0,1,0,0,0,2.62,26.38,-1.14
 17502899,Ucp1,0,0,1,0,1,0,1.19,22.15,4.92
 17359918,Elovl3,1,0,1,0,0,0,4.69,20.39,1.73
