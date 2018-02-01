@@ -1,0 +1,20 @@
+{
+	"file": "CBATEGdata/VennDiagram_AdiposeTissue_UPandDOWN.csv",
+	"name": "VennDiagram_AdiposeTissue_UPandDOWN",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Transcript_Cluster_ID" },
+		{ "type": "id", "index": 1, "name": "Gene_Symbol" },
+		{ "type": "float", "index": 8, "name": "iBAT_FC", "min": -8.75, "max": 26.38 },
+		{ "type": "float", "index": 9, "name": "iWAT_FC", "min": -8.75, "max": 26.38 },
+		{ "type": "float", "index": 10, "name": "eWAT_FC", "min": -8.75, "max": 26.38 },
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 7 }
+	],
+    "author": "rodons",
+    "description": "AdiposeTissue_UPandDOWN",
+    "source": "ourData"
+}
