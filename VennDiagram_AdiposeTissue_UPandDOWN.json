@@ -9,7 +9,7 @@
 		{ "type": "id", "index": 1, "name": "Gene_Symbol" },
 		{ "type": "float", "index": 8, "name": "iBAT_FC", "min": -8.75, "max": 26.38 },
 		{ "type": "float", "index": 9, "name": "iWAT_FC", "min": -8.75, "max": 26.38 },
-		{ "type": "float", "index": 10, "name": "eWAT_FC", "min": -8.75, "max": 26.38 },
+		{ "type": "float", "index": 10, "name": "eWAT_FC", "min": -8.75, "max": 26.38 }
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 7 }
