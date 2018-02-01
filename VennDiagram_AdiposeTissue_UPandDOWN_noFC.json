@@ -12,6 +12,6 @@
 		{ "format": "binary", "start": 2, "end": 7 }
 	],
     "author": "rodons",
-    "description": "AdiposeTissue_UPandDOWN",
+    "description": "AdiposeTissue_UPandDOWN_noFC",
     "source": "ourData"
 }
