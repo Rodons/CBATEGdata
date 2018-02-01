@@ -6,7 +6,7 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Transcript_Cluster_ID" },
-		{ "type": "id", "index": 1, "name": "Gene_Symbol" },
+		{ "type": "id", "index": 1, "name": "Gene_Symbol" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 7 }
