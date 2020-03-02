@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/Rodons/SetUpdata/master/Transcriptomes_Cold_Adrenergic.csv",
-	"name": "CombineTranscriptomics.csv",
+	"name": "Transcriptomes_Cold_Adrenergic",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
