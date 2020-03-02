@@ -1,0 +1,21 @@
+{
+	"file": "https://raw.githubusercontent.com/Rodons/SetUpdata/master/CombineTranscriptomics_Anon.csv",
+	"name": "CombineTranscriptomics_Anon.csv",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Anon_GS" },
+		{ "type": "float", "index": 1, "name": "GSE_A", "min": 0, "max": 1 },
+		{ "type": "float", "index": 2, "name": "GSE_B", "min": 0, "max": 1  },
+		{ "type": "float", "index": 3, "name": "GSE_C", "min": 0, "max": 1  },
+		{ "type": "float", "index": 4, "name": "GSE_D", "min": 0, "max": 1  },
+		{ "type": "float", "index": 5, "name": "GSE_E", "min": 0, "max": 1  },
+		{ "type": "float", "index": 6, "name": "GSE_F", "min": 0, "max": 1  },
+		{ "type": "float", "index": 7, "name": "GSE_G", "min": 0, "max": 1  },
+		{ "type": "float", "index": 7, "name": "GSE_H", "min": 0, "max": 1  }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7  }
+	]
+}
