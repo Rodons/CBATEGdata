@@ -1,0 +1,20 @@
+{
+	"file": "https://raw.githubusercontent.com/Rodons/SetUpdata/master/Transcriptomes_Cold_Adrenergic_DEG_UpReg.csv",
+	"name": "Transcriptomes_Cold_Adrenergic_DEG_UpReg",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "GeneSymbol" },
+		{ "type": "integer", "index": 1, "name": "ArrayNostre", "min": 0, "max": 1 },
+		{ "type": "integer", "index": 2, "name": "GSE13432_7d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 3, "name": "GSE13432_35d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 4, "name": "GSE55934_Adre_10d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 5, "name": "GSE98132_Adre_3d_RNAseq", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 6, "name": "GSE108077_7d_RNAseq", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 7, "name": "GSE110420_10d", "min": 0, "max": 1  }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7  }
+	]
+}
