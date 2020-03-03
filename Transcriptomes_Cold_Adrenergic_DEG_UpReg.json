@@ -15,6 +15,6 @@
 		{ "type": "integer", "index": 7, "name": "GSE110420_10d", "min": 0, "max": 1  }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 7  }
+		{ "format": "binary", "start": 1, "end": 8  }
 	]
 }
