@@ -1,6 +1,6 @@
 {
-	"file": "https://raw.githubusercontent.com/Rodons/SetUpdata/master/Transcriptomes_Cold_Adrenergic_PathEnrichment_DownDEG_ExceptGSE51080.csv",
-	"name": "Transcriptomes_Cold_Adrenergic_PathEnrichment_DownDEG_ExceptGSE51080",
+	"file": "https://raw.githubusercontent.com/Rodons/SetUpdata/master/Transcriptomes_Cold_Adrenergic_DEG_ExceptGSE51080.csv",
+	"name": "Transcriptomes_Cold_Adrenergic_DEG_ExceptGSE51080",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,

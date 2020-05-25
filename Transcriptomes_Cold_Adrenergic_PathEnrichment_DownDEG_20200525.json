@@ -1,0 +1,23 @@
+{
+	"file": "https://raw.githubusercontent.com/Rodons/SetUpdata/master/Transcriptomes_Cold_Adrenergic_PathEnrichment_DownDEG_20200525.csv",
+	"name": "Transcriptomes_Cold_Adrenergic_PathEnrichment_DownDEG_20200525",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "GeneSymbol" },
+		{ "type": "integer", "index": 1, "name": "GSE13432_7d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 2, "name": "GSE13432_35d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 3, "name": "GSE51080_10d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 4, "name": "GSE55934_10d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 5, "name": "GSE74899_14d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 6, "name": "GSE98132_3d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 7, "name": "GSE108077_7d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 8, "name": "GSE110420_10d", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 9, "name": "GSE148361_4d", "min": 0, "max": 1 },
+
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 9  }
+	]
+}
