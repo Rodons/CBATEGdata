@@ -1,0 +1,19 @@
+{
+	"file": "https://raw.githubusercontent.com/Rodons/SetUpdata/master/Alex_UpSet.csv",
+	"name": "Alex_UpSet",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "ID" },
+		{ "type": "integer", "index": 1, "name": "DMSO", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 2, "name": "ENZA", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 3, "name": "GF", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 4, "name": "SB80", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 5, "name": "SB90", "min": 0, "max": 1  },
+		{ "type": "integer", "index": 6, "name": "VX", "min": 0, "max": 1  }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 6  }
+	]
+}
